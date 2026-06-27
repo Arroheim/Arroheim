@@ -101,19 +101,6 @@ Currently working as a **Test Automation Engineer**, professionally breaking thi
 
 ### `$ echo $PHILOSOPHY`
 
-```bash
-if [ "$modern_coding_style" == "vibe_coding" ]; then
-    echo "Nope."
-else
-    echo "It's just the next step in the natural evolution:"
-    echo ""
-    echo "  Assembly → High-Level Languages → LLM-assisted"
-    echo "  i.e.  low-level → high-level → SUPER-HIGH-LEVEL"
-    echo ""
-    echo "  Call things what they are."
-fi
-```
-
 ```
 🧬 It's just the next step in the natural evolution:
 
@@ -221,19 +208,6 @@ fi
 ```
 
 ### `$ echo $PHILOSOPHY`
-
-```bash
-if [ "$modern_coding_style" == "вайбкодинг" ]; then
-    echo "Нет."
-else
-    echo "Это просто следующий уровень эволюции:"
-    echo ""
-    echo "  Ассемблер → Высокоуровневые языки → LLM-assisted"
-    echo "  т.е.  низкоуровневое → высокоуровневое → СВЕРХВЫСОКОУРОВНЕВОЕ"
-    echo ""
-    echo "  Называй вещи своими именами."
-fi
-```
 
 ```
 🧬 Это просто следующий уровень эволюции:
