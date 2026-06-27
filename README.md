@@ -81,16 +81,16 @@ Currently working as a **Test Automation Engineer**, professionally breaking thi
 
 ### `$ neofetch --stats`
 
-<!-- TODO: github-readme-stats выдаёт "Could not fetch total commits" — разобраться позже
 <div align="center">
 
 <a href="https://github.com/Arroheim">
+  <!-- TODO: "Could not fetch total commits" — разобраться позже
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arroheim&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arroheim&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </a>
 
 </div>
--->
 
 ### `$ cat current_quest.md`
 
@@ -191,16 +191,16 @@ Currently working as a **Test Automation Engineer**, professionally breaking thi
 
 ### `$ neofetch --stats`
 
-<!-- TODO: github-readme-stats выдаёт "Could not fetch total commits" — разобраться позже
 <div align="center">
 
 <a href="https://github.com/Arroheim">
+  <!-- TODO: "Could not fetch total commits" — разобраться позже
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arroheim&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arroheim&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </a>
 
 </div>
--->
 
 ### `$ cat current_quest.md`
 
