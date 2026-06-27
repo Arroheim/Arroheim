@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- profile readme -->
+<!-- My profile readme -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=Hi+there%2C+I%27m+Stanislav+%F0%9F%91%8B;Test+Automation+Engineer;Terminal+Addict+%26+ASCII+Art+Lover;Java+%7C+Python+%7C+Go+%7C+Lua;LLM+%3D+Super-High-Level+Programming+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arroheim&color=00FF41&style=flat-square&label=Profile+Views)
