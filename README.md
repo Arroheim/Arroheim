@@ -115,12 +115,12 @@ fi
 ```
 
 ```
-It's just the next step in the natural evolution:
+🧬 It's just the next step in the natural evolution:
 
-  Assembly → High-Level Languages → LLM-assisted
-  i.e.  low-level → high-level → SUPER-HIGH-LEVEL
+  ⚙️  Assembly → 🔧 High-Level Languages → 🤖 LLM-assisted
+  📈  low-level → high-level → SUPER-HIGH-LEVEL
 
-  Call things what they are.
+  📢 Call things what they are.
 ```
 
 <div align="right">
@@ -236,12 +236,12 @@ fi
 ```
 
 ```
-Это просто следующий уровень эволюции:
+🧬 Это просто следующий уровень эволюции:
 
-  Ассемблер → Высокоуровневые языки → LLM-assisted
-  т.е.  низкоуровневое → высокоуровневое → СВЕРХВЫСОКОУРОВНЕВОЕ
+  ⚙️  Ассемблер → 🔧 Высокоуровневые языки → 🤖 LLM-assisted
+  📈  низкоуровневое → высокоуровневое → СВЕРХВЫСОКОУРОВНЕВОЕ
 
-  Называй вещи своими именами.
+  📢 Называй вещи своими именами.
 ```
 
 <div align="right">
