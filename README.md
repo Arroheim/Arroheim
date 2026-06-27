@@ -81,6 +81,7 @@ Currently working as a **Test Automation Engineer**, professionally breaking thi
 
 ### `$ neofetch --stats`
 
+<!-- TODO: github-readme-stats выдаёт "Could not fetch total commits" — разобраться позже
 <div align="center">
 
 <a href="https://github.com/Arroheim">
@@ -89,6 +90,7 @@ Currently working as a **Test Automation Engineer**, professionally breaking thi
 </a>
 
 </div>
+-->
 
 ### `$ cat current_quest.md`
 
@@ -189,6 +191,7 @@ Currently working as a **Test Automation Engineer**, professionally breaking thi
 
 ### `$ neofetch --stats`
 
+<!-- TODO: github-readme-stats выдаёт "Could not fetch total commits" — разобраться позже
 <div align="center">
 
 <a href="https://github.com/Arroheim">
@@ -197,6 +200,7 @@ Currently working as a **Test Automation Engineer**, professionally breaking thi
 </a>
 
 </div>
+-->
 
 ### `$ cat current_quest.md`
 
